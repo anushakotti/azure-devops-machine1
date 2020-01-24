@@ -6,3 +6,5 @@ this line is second line in machine 1
 
 this line is for branch1
 
+this line is for branch 2
+
